@@ -1,0 +1,6 @@
+PROJECT: Network Monitor
+DESCRIPTION: Real-time network traffic monitoring and analysis tool
+DATE CREATED: Aug 23, 2026
+STATUS: In Development
+SKILLS: Python, Networking, Data Analysis
+GITHUB: https://github.com/ASMAULHN01/python-projects

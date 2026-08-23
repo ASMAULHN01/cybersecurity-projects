@@ -1,0 +1,6 @@
+PROJECT: Password Strength Checker
+DESCRIPTION: Tool to evaluate password security and provide recommendations
+DATE CREATED: Aug 23, 2026
+STATUS: Completed
+SKILLS: Python, Security, Regex
+GITHUB: https://github.com/ASMAULHN01/python-projects

@@ -1,0 +1,6 @@
+PROJECT: Port Scanner
+DESCRIPTION: Network tool to scan open ports on target systems
+DATE CREATED: Aug 23, 2026
+STATUS: Completed
+SKILLS: Python, Networking, Socket programming
+GITHUB: https://github.com/ASMAULHN01/python-projects

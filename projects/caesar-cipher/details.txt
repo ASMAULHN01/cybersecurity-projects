@@ -1,0 +1,6 @@
+PROJECT: Caesar Cipher
+DESCRIPTION: Encryption/Decryption tool using Caesar cipher algorithm
+DATE CREATED: Aug 23, 2026
+STATUS: Completed
+SKILLS: Python, Encryption, String manipulation
+GITHUB: https://github.com/ASMAULHN01/python-projects
